@@ -17,7 +17,9 @@
     <li>Task 2</li>
         <p>We separate the code jsx from the html file</p>
     <li>Task 3</li>
+        <p>We transform the .jsx file in .js file</p>
     <li>Task 4</li>
+        <p>Change functions components to class components</p>
     <li>Task 5</li>
     <li>Task 6</li>
     <li>Task 7</li>
