@@ -13,8 +13,9 @@
     <li>Task 0</li>
         <p>In the web browser open 'http://127.0.0.1:5500/task_0/index.html'</p>
     <li>Task 1</li>
-        <p>To display the page you must run 'npm start' or 'node server.js'</p>
+        <p>From now on we must run 'npm start' or 'node server.js' to display the project</p>
     <li>Task 2</li>
+        <p>We separate the code jsx from the html file</p>
     <li>Task 3</li>
     <li>Task 4</li>
     <li>Task 5</li>
