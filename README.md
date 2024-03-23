@@ -21,6 +21,7 @@
     <li>Task 4</li>
         <p>Change functions components to class components</p>
     <li>Task 5</li>
+        <p>Pass values through React.props</p>
     <li>Task 6</li>
     <li>Task 7</li>
     <li>Task 8</li>

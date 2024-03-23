@@ -1,6 +1,6 @@
 <h1>Class Components</h1>
 
-<p>In this directory we change the function Components with class Components
+<p>In this directory we change the function Components with class Components</p>
 
 <h3>Changes</h3>
 <ul>The main changes are:
