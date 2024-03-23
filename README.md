@@ -23,6 +23,7 @@
     <li>Task 5</li>
         <p>Pass values through React.props</p>
     <li>Task 6</li>
+        <p>Pass the values through childrens</p>
     <li>Task 7</li>
     <li>Task 8</li>
     <li>Task 9</li>
