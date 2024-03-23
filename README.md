@@ -25,6 +25,7 @@
     <li>Task 6</li>
         <p>Pass the values through childrens</p>
     <li>Task 7</li>
+        <p>Creating a custom validator of types</p>
     <li>Task 8</li>
     <li>Task 9</li>
     <li>Task 10</li>
