@@ -1,0 +1,21 @@
+{
+  "name": "task_8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "babel src --presets react --out-dir dist",
+    "watch": "babel src --presets react --out-dir dist --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "dependencies": {
+    "express": "4.19.1"
+  }
+}
